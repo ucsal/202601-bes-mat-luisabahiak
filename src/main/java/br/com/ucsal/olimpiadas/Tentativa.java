@@ -3,7 +3,7 @@ package br.com.ucsal.olimpiadas;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Tentativa {
+public class Tentativa implements Categoria{
 	private long id;
 	private long participanteId;
 	private long provaId;

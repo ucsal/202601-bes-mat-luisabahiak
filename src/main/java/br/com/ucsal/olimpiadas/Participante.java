@@ -1,6 +1,6 @@
 package br.com.ucsal.olimpiadas;
 
-public class Participante {
+public class Participante implements Categoria{
 	private long id;
 	private String nome;
 	private String email;

@@ -1,6 +1,6 @@
 package br.com.ucsal.olimpiadas;
 
-public class Prova {
+public class Prova implements Categoria{
 
 	private long id;
 	private String titulo;
