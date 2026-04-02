@@ -2,7 +2,7 @@ package br.com.ucsal.olimpiadas.controller;
 
 import java.util.Scanner;
 
-import br.com.ucsal.olimpiadas.Participante;
+import br.com.ucsal.olimpiadas.model.Participante;
 import br.com.ucsal.olimpiadas.repository.ParticipanteRepository;
 
 public class ParticipanteController {

@@ -2,8 +2,7 @@ package br.com.ucsal.olimpiadas.controller;
 
 import java.util.Scanner;
 
-import br.com.ucsal.olimpiadas.Prova;
-import br.com.ucsal.olimpiadas.Questao;
+import br.com.ucsal.olimpiadas.model.Questao;
 import br.com.ucsal.olimpiadas.repository.ProvaRepository;
 import br.com.ucsal.olimpiadas.repository.QuestaoRepository;
 

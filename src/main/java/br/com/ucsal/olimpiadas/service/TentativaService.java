@@ -1,6 +1,6 @@
 package br.com.ucsal.olimpiadas.service;
 
-import br.com.ucsal.olimpiadas.Tentativa;
+import br.com.ucsal.olimpiadas.model.Tentativa;
 
 public class TentativaService {
 	

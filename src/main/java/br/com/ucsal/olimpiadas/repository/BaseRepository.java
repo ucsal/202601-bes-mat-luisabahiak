@@ -2,7 +2,8 @@ package br.com.ucsal.olimpiadas.repository;
 
 import java.util.ArrayList;
 import java.util.List;
-import br.com.ucsal.olimpiadas.Categoria;
+
+import br.com.ucsal.olimpiadas.model.Categoria;
 
 public abstract class BaseRepository<T extends Categoria> {
 

@@ -1,13 +1,11 @@
 package br.com.ucsal.olimpiadas;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Scanner;
-
 import br.com.ucsal.olimpiadas.controller.ParticipanteController;
 import br.com.ucsal.olimpiadas.controller.ProvaController;
 import br.com.ucsal.olimpiadas.controller.QuestaoController;
 import br.com.ucsal.olimpiadas.controller.TentativaController;
+import br.com.ucsal.olimpiadas.model.Prova;
+import br.com.ucsal.olimpiadas.model.Questao;
 import br.com.ucsal.olimpiadas.repository.ParticipanteRepository;
 import br.com.ucsal.olimpiadas.repository.ProvaRepository;
 import br.com.ucsal.olimpiadas.repository.QuestaoRepository;

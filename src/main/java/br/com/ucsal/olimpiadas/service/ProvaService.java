@@ -1,6 +1,6 @@
 package br.com.ucsal.olimpiadas.service;
 
-import br.com.ucsal.olimpiadas.Prova;
+import br.com.ucsal.olimpiadas.model.Prova;
 import br.com.ucsal.olimpiadas.repository.ProvaRepository;
 
 public class ProvaService {
