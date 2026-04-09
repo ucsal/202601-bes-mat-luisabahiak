@@ -1,8 +1,8 @@
-package br.com.ucsal.olimpiadas;
+package br.com.ucsal.olimpiadas.model;
 
 import java.util.Arrays;
 
-public class Questao {
+public class Questao implements Categoria {
 
 	private long id;
 	private long provaId;

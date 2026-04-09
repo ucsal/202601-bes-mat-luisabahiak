@@ -1,9 +1,9 @@
-package br.com.ucsal.olimpiadas;
+package br.com.ucsal.olimpiadas.model;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class Tentativa {
+public class Tentativa implements Categoria{
 	private long id;
 	private long participanteId;
 	private long provaId;
